@@ -43,7 +43,8 @@ This project demonstrates how to use the FaceNet model for face recognition. The
 ![image](https://github.com/wshuv-o/facenet-realtime-face-recognition/assets/100506316/1a6cb7a1-d28b-4269-a10a-616e905235ec)
 
 # Face embeddings using facenet
-![image](https://github.com/wshuv-o/facenet-realtime-face-recognition/assets/100506316/555d0734-85d1-45b9-8867-918bc22c2875)
+
+![download](https://github.com/wshuv-o/facenet-realtime-face-recognition/assets/100506316/c2ef8a22-1f7b-4e6e-9d0d-60294e522aa3)
 
 # References
 FaceNet Paper
