@@ -46,7 +46,7 @@ This project demonstrates how to use the FaceNet model for face recognition. The
 
 ![download](https://github.com/wshuv-o/facenet-realtime-face-recognition/assets/100506316/c2ef8a22-1f7b-4e6e-9d0d-60294e522aa3)
 
-# References
-FaceNet Paper
-MTCNN for Face Detection
-For further information, refer to the project documentation and source code comments.
+## References
+- [FaceNet Paper](https://arxiv.org/abs/1503.03832)
+- [MTCNN for Face Detection](https://github.com/ipazc/mtcnn)
+- For further information, refer to the project documentation and source code comments.
