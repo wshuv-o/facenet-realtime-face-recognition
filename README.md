@@ -39,7 +39,13 @@ This project demonstrates how to use the FaceNet model for face recognition. The
    - Installation: `pip install keras==2.6.0 tensorflow==2.6.0`
    - Note: Ensure compatibility between TensorFlow and Keras versions.
 
-References
+# Face Cropped Augmented Image
+![image](https://github.com/wshuv-o/facenet-realtime-face-recognition/assets/100506316/1a6cb7a1-d28b-4269-a10a-616e905235ec)
+
+# Face embeddings using facenet
+![image](https://github.com/wshuv-o/facenet-realtime-face-recognition/assets/100506316/555d0734-85d1-45b9-8867-918bc22c2875)
+
+# References
 FaceNet Paper
 MTCNN for Face Detection
 For further information, refer to the project documentation and source code comments.
