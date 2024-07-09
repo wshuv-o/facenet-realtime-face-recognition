@@ -1,7 +1,7 @@
 # facenet-realtime-face-recognition
 This project demonstrates how to use the FaceNet model for face recognition. The FaceNet model maps face images into a 128-dimensional embedding space, where distances directly correspond to a measure of face similarity.
 <img width="680" alt="Thumbnail_facial-recognition@2x" src="https://github.com/wshuv-o/facenet-realtime-face-recognition/assets/100506316/82eaa575-ef43-4cd3-b8d9-241ec505f13e">
-
+ 
 ## Please download the Facenet model build on Tensorflow from the following link - [facenet_keras.h5](https://www.kaggle.com/datasets/rmamun/kerasfaceneth5)
 ## Software Requirements 
 1. **Operating System**:
